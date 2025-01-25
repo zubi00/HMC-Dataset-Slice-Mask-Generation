@@ -1,10 +1,6 @@
 # HMC-Dataset-Slice-Mask-Generation
 
-We have collected a Head & Neck cancer patient dataset from Hamad Medical Corporation (HMC) Hospital. While the dataset is not publicly 
-
-available, the following steps outline the preprocessing methodology to help you better understand how hospital datasets can be organized
-
-and utilized effectively:
+We have collected a Head & Neck cancer patient dataset from Hamad Medical Corporation (HMC) Hospital. While the dataset is not publicly available, the following steps outline the preprocessing methodology to help you better understand how hospital datasets can be organized and utilized effectively:
 
 1. Install Dependencies:
 
